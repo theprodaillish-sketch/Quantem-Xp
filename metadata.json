@@ -1,0 +1,6 @@
+{
+  "name": "QUANTEM XP - Rubik's Cube Algorithm Training System",
+  "description": "Master F2L, OLL, and PLL algorithms with an arcade-inspired retro gaming progression system. Learn slower, turn faster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
